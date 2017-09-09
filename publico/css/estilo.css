@@ -1,0 +1,48 @@
+
+@font-face {
+
+font-family: 'Pajarakan Studs';
+
+
+src:url('../fuentes/Pajarakan Studs.otf');
+}
+
+body{
+  font-family:'Pajarakan Studs';
+  font-size: 1.2em;
+}
+
+#jumbo{
+	background:url("imagenes/banner/1.png");
+}
+h1{
+	color: #A61B1B;
+}
+h4{
+	color: #6C0C88;
+}
+
+/* -- TEXTO REDES SOCIALES --*/
+
+#redes-in{
+  color: #EA1E3B;
+  font-weight: bold;
+  font-size: 16px;
+}
+#redes-fb{
+  color: #1E2DEA;
+  font-weight: bold;
+  font-size: 16px;
+}
+#redes-tw{
+  color: #1EBFEA;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#footer {
+	background-color: #B71057;
+	color: #FFFFFF;
+	height: 50px;
+	font-size: 12px;
+}
